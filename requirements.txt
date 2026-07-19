@@ -1,0 +1,13 @@
+includes all the essential libraries used in this project:
+
+pandas & numpy: For data manipulation and numerical operations.
+scikit-learn: For preprocessing, scaling, and the core machine learning models/evaluation.
+seaborn & matplotlib: For all the data visualizations and the confusion matrix.
+xgboost: For the high-performance gradient boosting model.
+
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+xgboost
